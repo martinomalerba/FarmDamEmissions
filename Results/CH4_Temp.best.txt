@@ -1,0 +1,6 @@
+Analysis of Deviance Table (Type III tests)
+
+Response: WaterTemp_1
+             Chisq Df Pr(>Chisq)
+(Intercept) 0.8710  1     0.3507
+Dam_type2   0.3572  1     0.5501

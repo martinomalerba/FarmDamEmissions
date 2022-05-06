@@ -1,0 +1,6 @@
+Analysis of Deviance Table (Type III tests)
+
+Response: Stock_tCha_1
+             Chisq Df Pr(>Chisq)
+(Intercept) 0.0172  1     0.8956
+Dam_type2   0.7919  1     0.3735

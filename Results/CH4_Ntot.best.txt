@@ -1,0 +1,8 @@
+Analysis of Deviance Table (Type III tests)
+
+Response: TotalN_1
+             Chisq Df Pr(>Chisq)   
+(Intercept) 4.4958  1   0.033979 * 
+Dam_type2   8.3638  1   0.003828 **
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1

@@ -1,0 +1,8 @@
+Analysis of Deviance Table (Type III tests)
+
+Response: Oxygen_mg_1
+             Chisq Df Pr(>Chisq)  
+(Intercept) 1.9423  1    0.16342  
+Dam_type2   5.1506  1    0.02324 *
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
